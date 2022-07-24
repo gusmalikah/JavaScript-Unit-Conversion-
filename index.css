@@ -50,7 +50,7 @@ button {
     background: #FFFFFF;
     padding: 10px 25px;
 }
-.length {
+.dimension {
     background: #FFFFFF;
     border-radius: 4.68077px 0px 0px 0px;
     width: 80%;
@@ -70,3 +70,10 @@ button {
     font-size: 20px;
     color: #5A537B;
 }
+textarea::placeholder {
+    font-size: 10px;
+    color: white;
+  }
+  .txt {
+    font-size: 14px;
+  }
